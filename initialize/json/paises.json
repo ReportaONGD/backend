@@ -1,0 +1,1699 @@
+{
+  "paises": [
+    {
+      "valor": "Afghanistan",
+      "moneda": {
+        "codigo": "AFN", 
+        "descripcion": "Afgani afgano"
+      }
+    },
+    {
+      "valor": "Åland Islands",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Albania",
+      "moneda": {
+        "codigo": "ALL",
+        "descripcion": "Lek albano"
+      }
+    },
+    {
+      "valor": "Algeria",
+      "moneda": {
+        "codigo": "DZD",
+        "descripcion": "Dinar argelino"
+      }
+    },
+    {
+      "valor": "American Samoa",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Andorra",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Angola",
+      "moneda": {
+        "codigo": "AOA",
+        "descripcion": "Kwanza angoleño"
+      }
+    },
+    {
+      "valor": "Anguilla",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Antartica",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Antigua and Barbuda",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Argentina",
+      "moneda": {
+        "codigo": "ARS",
+        "descripcion": "Peso argentino"
+      }
+    },
+    {
+      "valor": "Armenia",
+      "moneda": {
+        "codigo": "AMD",
+        "descripcion": "Dram armenio"
+      }
+    },
+    {
+      "valor": "Aruba",
+      "moneda": {
+        "codigo": "AWG",
+        "descripcion": "Florín arubeño"
+      }
+    },
+    {
+      "valor": "Australia",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Austria",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Azerbaijan",
+      "moneda": {
+        "codigo": "AZN",
+        "descripcion": "Manat azerbaiyano"
+      }
+    },
+    {
+      "valor": "Bahamas",
+      "moneda": {
+        "codigo": "BSD",
+        "descripcion": "Dólar bahameño"
+      }
+    },
+    {
+      "valor": "Bahrain",
+      "moneda": {
+        "codigo": "BHD",
+        "descripcion": "Dinar bahreiní"
+      }
+    },
+    {
+      "valor": "Bangladesh",
+      "moneda": {
+        "codigo": "BDT",
+        "descripcion": "Taka bangladesí"
+      }
+    },
+    {
+      "valor": "Barbados",
+      "moneda": {
+        "codigo": "BBD",
+        "descripcion": "Dólar de Barbados"
+      }
+    },
+    {
+      "valor": "Belarus",
+      "moneda": {
+        "codigo": "BYR",
+        "descripcion": "Rublo bielorruso"
+      }
+    },
+    {
+      "valor": "Belgium",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Belice",
+      "moneda": {
+        "codigo": "BZD",
+        "descripcion": "Dólar beliceño"
+      }
+    },
+    {
+      "valor": "Benin",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Bermuda",
+      "moneda": {
+        "codigo": "BMD",
+        "descripcion": "Dólar bermudeño"
+      }
+    },
+    {
+      "valor": "Bhutan",
+      "moneda": {
+        "codigo": "INR",
+        "descripcion": "Rupia india"
+      }
+    },
+    {
+      "valor": "Bolivia",
+      "moneda": {
+        "codigo": "BOB",
+        "descripcion": "Boliviano"
+      }
+    },
+    {
+      "valor": "Bosnia and Herzegovina",
+      "moneda": {
+        "codigo": "BAM",
+        "descripcion": "Marco bosnioherzegovino"
+      }
+    },
+    {
+      "valor": "Botswana",
+      "moneda": {
+        "codigo": "BWP",
+        "descripcion": "Pula de Botswana"
+      }
+    },
+    {
+      "valor": "Bouvet Island",
+      "moneda": {}
+    },
+    {
+      "valor": "Brasil",
+      "moneda": {
+        "codigo": "BRL",
+        "descripcion": "Real brasileño"
+      }
+    },
+    {
+      "valor": "British Indian Ocean Territory",
+      "moneda": {
+        "codigo": "GBP",
+        "descripcion": "Libra esterlina (de Gran Bretaña)"
+      }
+    },
+    {
+      "valor": "Brunei Darussalam",
+      "moneda": {
+        "codigo": "BND",
+        "descripcion": "Dólar de Brunéi"
+      }
+    },
+    {
+      "valor": "Bulgaria",
+      "moneda": {
+        "codigo": "BGN",
+        "descripcion": "Lev búlgaro"
+      }
+    },
+    {
+      "valor": "Burkina Faso",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Burundi",
+      "moneda": {
+        "codigo": "BIF",
+        "descripcion": "Franco burundés"
+      }
+    },
+    {
+      "valor": "Cambodia",
+      "moneda": {
+        "codigo": "KHR",
+        "descripcion": "Riel camboyano"
+      }
+    },
+    {
+      "valor": "Cameroon",
+      "moneda": {
+        "codigo": "XAF",
+        "descripcion": "Franco CFA de África Central"
+      }
+    },
+    {
+      "valor": "Canada",
+      "moneda": {
+        "codigo": "CAD",
+        "descripcion": "Dólar canadiense"
+      }
+    },
+    {
+      "valor": "Cape Verde",
+      "moneda": {
+        "codigo": "CVE",
+        "descripcion": "Escudo caboverdiano"
+      }
+    },
+    {
+      "valor": "Cayman Islands",
+      "moneda": {
+        "codigo": "KYD",
+        "descripcion": "Dólar caimano (de Islas Caimán)"
+      }
+    },
+    {
+      "valor": "Central African Republic",
+      "moneda": {
+        "codigo": "XAF",
+        "descripcion": "Franco CFA de África Central"
+      }
+    },
+    {
+      "valor": "Chad",
+      "moneda": {
+        "codigo": "XAF",
+        "descripcion": "Franco CFA de África Central"
+      }
+    },
+    {
+      "valor": "Chile",
+      "moneda": {
+        "codigo": "CLP",
+        "descripcion": "Peso chileno"
+      }
+    },
+    {
+      "valor": "China",
+      "moneda": {
+        "codigo": "CNY",
+        "descripcion": "Yuan Renminbi"
+      }
+    },
+    {
+      "valor": "Christmas Island",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Cocos (Keeling) Islands",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Colombia",
+      "moneda": {
+        "codigo": "COP",
+        "descripcion": "Peso colombiano"
+      }
+    },
+    {
+      "valor": "Comoros",
+      "moneda": {
+        "codigo": "KMF",
+        "descripcion": "Franco comoriano (de Comoras)"
+      }
+    },
+    {
+      "valor": "Congo",
+      "moneda": {
+        "codigo": "CDF",
+        "descripcion": "Franco congoleño"
+      }
+    },
+    {
+      "valor": "Congo, The Democratic Republic of the",
+      "moneda": {
+        "codigo": "CDF",
+        "descripcion": "Franco congoleño"
+      }
+    },
+    {
+      "valor": "Cook Islands",
+      "moneda": {
+        "codigo": "NZD",
+        "descripcion": "Dólar neozelandés"
+      }
+    },
+    {
+      "valor": "Costa Rica",
+      "moneda": {
+        "codigo": "CRC",
+        "descripcion": "Colón costarricense"
+      }
+    },
+    {
+      "valor": "Cote D\"Ivoire",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Croatia",
+      "moneda": {
+        "codigo": "HRK",
+        "descripcion": "Kuna croata"
+      }
+    },
+    {
+      "valor": "Cuba",
+      "moneda": {
+        "codigo": "CUP",
+        "descripcion": "Peso cubano"
+      }
+    },
+    {
+      "valor": "Cyprus",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Czech Republic",
+      "moneda": {
+        "codigo": "CZK",
+        "descripcion": "Corona checa"
+      }
+    },
+    {
+      "valor": "Denmark",
+      "moneda": {
+        "codigo": "DKK",
+        "descripcion": "Corona danesa"
+      }
+    },
+    {
+      "valor": "Djibouti",
+      "moneda": {
+        "codigo": "DJF",
+        "descripcion": "Franco yibutiano"
+      }
+    },
+    {
+      "valor": "Dominica",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Dominican Republic",
+      "moneda": {
+        "codigo": "DOP",
+        "descripcion": "Peso dominicano"
+      }
+    },
+    {
+      "valor": "Ecuador",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Egypt",
+      "moneda": {
+        "codigo": "EGP",
+        "descripcion": "Libra egipcia"
+      }
+    },
+    {
+      "valor": "El Salvador",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Equatorial Guinea",
+      "moneda": {
+        "codigo": "XAF",
+        "descripcion": "Franco CFA de África Central"
+      }
+    },
+    {
+      "valor": "Eritrea",
+      "moneda": {
+        "codigo": "ERN",
+        "descripcion": "Nakfa eritreo"
+      }
+    },
+    {
+      "valor": "Estonia",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Ethiopia",
+      "moneda": {
+        "codigo": "ETB",
+        "descripcion": "Birr etíope"
+      }
+    },
+    {
+      "valor": "Falkland Islands (Malvinas)",
+      "moneda": {
+        "codigo": "FKP",
+        "descripcion": "Libra malvinense"
+      }
+    },
+    {
+      "valor": "Faroe Islands",
+      "moneda": {
+        "codigo": "DKK",
+        "descripcion": "Corona danesa"
+      }
+    },
+    {
+      "valor": "Fiji",
+      "moneda": {
+        "codigo": "FJD",
+        "descripcion": "Dólar fiyiano"
+      }
+    },
+    {
+      "valor": "Finland",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "France",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "French Guiana",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "French Polynesia",
+      "moneda": {
+        "codigo": "XPF",
+        "descripcion": "Franco CFP"
+      }
+    },
+    {
+      "valor": "French Southern Territories",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Gabon",
+      "moneda": {
+        "codigo": "XAF",
+        "descripcion": "Franco CFA de África Central"
+      }
+    },
+    {
+      "valor": "Gambia",
+      "moneda": {
+        "codigo": "GMD",
+        "descripcion": "Dalasi gambiano"
+      }
+    },
+    {
+      "valor": "Georgia",
+      "moneda": {
+        "codigo": "GEL",
+        "descripcion": "Lari georgiano"
+      }
+    },
+    {
+      "valor": "Germany",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Ghana",
+      "moneda": {
+        "codigo": "GHS",
+        "descripcion": "Cedi ghanés"
+      }
+    },
+    {
+      "valor": "Gibraltar",
+      "moneda": {
+        "codigo": "GIP",
+        "descripcion": "Libra de Gibraltar"
+      }
+    },
+    {
+      "valor": "Greece",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Greenland",
+      "moneda": {
+        "codigo": "DKK",
+        "descripcion": "Corona danesa"
+      }
+    },
+    {
+      "valor": "Grenada",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Guadeloupe",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Guam",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Guatemala",
+      "moneda": {
+        "codigo": "GTQ",
+        "descripcion": "Quetzal guatemalteco"
+      }
+    },
+    {
+      "valor": "Guernsey",
+      "moneda": {
+        "codigo": "GBP",
+        "descripcion": "Libra de Guernsey"
+      }
+    },
+    {
+      "valor": "Guinea",
+      "moneda": {
+        "codigo": "GNF",
+        "descripcion": "Franco guineano"
+      }
+    },
+    {
+      "valor": "Guinea-Bissau",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Guyana",
+      "moneda": {
+        "codigo": "GYD",
+        "descripcion": "Dólar guyanés"
+      }
+    },
+    {
+      "valor": "Haiti",
+      "moneda": {
+        "codigo": "HTG",
+        "descripcion": "Gourde haitiano"
+      }
+    },
+    {
+      "valor": "Heard Island and Mcdonald Islands",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Holy See (Vatican City State)",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Honduras",
+      "moneda": {
+        "codigo": "HNL",
+        "descripcion": "Lempira hondureña"
+      }
+    },
+    {
+      "valor": "Hong Kong",
+      "moneda": {
+        "codigo": "HKD",
+        "descripcion": "Dólar de Hong Kong"
+      }
+    },
+    {
+      "valor": "Hungary",
+      "moneda": {
+        "codigo": "HUF",
+        "descripcion": "Forinto húngaro"
+      }
+    },
+    {
+      "valor": "Iceland",
+      "moneda": {
+        "codigo": "ISK",
+        "descripcion": "Corona islandesa"
+      }
+    },
+    {
+      "valor": "India",
+      "moneda": {
+        "codigo": "INR",
+        "descripcion": "Rupia india"
+      }
+    },
+    {
+      "valor": "Indonesia",
+      "moneda": {
+        "codigo": "IDR",
+        "descripcion": "Rupiah indonesia"
+      }
+    },
+    {
+      "valor": "Iran, Islamic Republic Of",
+      "moneda": {
+        "codigo": "IRR",
+        "descripcion": "Rial iraní"
+      }
+    },
+    {
+      "valor": "Iraq",
+      "moneda": {
+        "codigo": "IQD",
+        "descripcion": "Dinar iraqí"
+      }
+    },
+    {
+      "valor": "Ireland",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Isle of Man",
+      "moneda": {
+        "codigo": "GBP",
+        "descripcion": "Libra esterlina"
+      }
+    },
+    {
+      "valor": "Israel",
+      "moneda": {
+        "codigo": "ILS",
+        "descripcion": "Nuevo shequel israelí"
+      }
+    },
+    {
+      "valor": "Italy",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Jamaica",
+      "moneda": {
+        "codigo": "JMD",
+        "descripcion": "Dólar jamaicano"
+      }
+    },
+    {
+      "valor": "Japan",
+      "moneda": {
+        "codigo": "JPY",
+        "descripcion": "Yen japonés"
+      }
+    },
+    {
+      "valor": "Jersey",
+      "moneda": {
+        "codigo": "GBP",
+        "descripcion": "Libra esterlina"
+      }
+    },
+    {
+      "valor": "Jordan",
+      "moneda": {
+        "codigo": "JOD",
+        "descripcion": "Dinar jordano"
+      }
+    },
+    {
+      "valor": "Kazakhstan",
+      "moneda": {
+        "codigo": "KZT",
+        "descripcion": "Tenge kazajo (de Kazajstán)"
+      }
+    },
+    {
+      "valor": "Kenya",
+      "moneda": {
+        "codigo": "KES",
+        "descripcion": "Chelín keniano"
+      }
+    },
+    {
+      "valor": "Kiribati",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Korea, Democratic People\"S Republic ",
+      "moneda": {
+        "codigo": "KPW",
+        "descripcion": "Won norcoreano"
+      }
+    },
+    {
+      "valor": "Korea, Republic",
+      "moneda": {
+        "codigo": "KRW",
+        "descripcion": "Won surcoreano"
+      }
+    },
+    {
+      "valor": "Kuwait",
+      "moneda": {
+        "codigo": "KWD",
+        "descripcion": "Dinar kuwaití"
+      }
+    },
+    {
+      "valor": "Kyrgyzstan",
+      "moneda": {
+        "codigo": "KGS",
+        "descripcion": "Som kirguís (de Kirguistán)"
+      }
+    },
+    {
+      "valor": "Lao People\"S Democratic Republic",
+      "moneda": {
+        "codigo": "LAK",
+        "descripcion": "Kip lao"
+      }
+    },
+    {
+      "valor": "Latvia",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Lebanon",
+      "moneda": {
+        "codigo": "LBP",
+        "descripcion": "Libra libanesa"
+      }
+    },
+    {
+      "valor": "Lesotho",
+      "moneda": {
+        "codigo": "LSL",
+        "descripcion": "Loti lesothense (de Lesotho)"
+      }
+    },
+    {
+      "valor": "Liberia",
+      "moneda": {
+        "codigo": "LRD",
+        "descripcion": "Dólar liberiano"
+      }
+    },
+    {
+      "valor": "Libyan Arab Jamahiriya",
+      "moneda": {
+        "codigo": "LYD",
+        "descripcion": "Dinar libio"
+      }
+    },
+    {
+      "valor": "Liechtenstein",
+      "moneda": {
+        "codigo": "CHF",
+        "descripcion": "Franco suizo"
+      }
+    },
+    {
+      "valor": "Lithuania",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Luxembourg",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Macao",
+      "moneda": {
+        "codigo": "MOP",
+        "descripcion": "Pataca macaense"
+      }
+    },
+    {
+      "valor": "Macedonia, The Former Yugoslav Republic of",
+      "moneda": {
+        "codigo": "MKD",
+        "descripcion": "Denar macedonio"
+      }
+    },
+    {
+      "valor": "Madagascar",
+      "moneda": {
+        "codigo": "MGA",
+        "descripcion": "Ariary malgache (de Madagascar)"
+      }
+    },
+    {
+      "valor": "Malawi",
+      "moneda": {
+        "codigo": "MWK",
+        "descripcion": "Kwacha malawiano"
+      }
+    },
+    {
+      "valor": "Malaysia",
+      "moneda": {
+        "codigo": "MYR",
+        "descripcion": "Ringgit malayo"
+      }
+    },
+    {
+      "valor": "Maldives",
+      "moneda": {
+        "codigo": "MVR",
+        "descripcion": "Rufiyaa maldiva"
+      }
+    },
+    {
+      "valor": "Mali",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Malta",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Marshall Islands",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Martinique",
+      "moneda": {
+      "codigo": "MRO",
+      "descripcion": "Ouguiya mauritana"
+      }
+    },
+    {
+      "valor": "Mauritania",
+      "moneda": {
+        "codigo": "MRO",
+        "descripcion": "Ouguiya mauritana"
+      }
+    },
+    {
+      "valor": "Mauritius",
+      "moneda": {
+        "codigo": "MUR",
+        "descripcion": "Rupia mauricia"
+      }
+    },
+    {
+      "valor": "Mayotte",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Mexico",
+      "moneda": {
+        "codigo": "MXN",
+        "descripcion": "Peso mexicano"
+      }
+    },
+    {
+      "valor": "Micronesia, Federated States of",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Moldova, Republic of",
+      "moneda": {
+        "codigo": "MDL",
+        "descripcion": "Leu moldavo"
+      }
+    },
+    {
+      "valor": "Monaco",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Mongolia",
+      "moneda": {
+        "codigo": "MNT",
+        "descripcion": "Tughrik mongol"
+      }
+    },
+    {
+      "valor": "Montserrat",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Morocco",
+      "moneda": {
+        "codigo": "MAD",
+        "descripcion": "Dirham marroquí"
+      }
+    },
+    {
+      "valor": "Mozambique",
+      "moneda": {
+        "codigo": "MZN",
+        "descripcion": "Metical mozambiqueño"
+      }
+    },
+    {
+      "valor": "Myanmar",
+      "moneda": {
+        "codigo": "MMK",
+        "descripcion": "Kyat birmano"
+      }
+    },
+    {
+      "valor": "Namibia",
+      "moneda": {
+        "codigo": "ZAR",
+        "descripcion": "Rand sudafricano"
+      }
+    },
+    {
+      "valor": "Nauru",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Nepal",
+      "moneda": {
+        "codigo": "NPR",
+        "descripcion": "Rupia nepalí"
+      }
+    },
+    {
+      "valor": "Netherlands",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Netherlands Antilles",
+      "moneda": {
+        "codigo": "ANG",
+        "descripcion": "Florín antillano neerlandés"
+      }
+    },
+    {
+      "valor": "New Caledonia",
+      "moneda": {
+        "codigo": "XPF",
+        "descripcion": "Franco CFP"
+      }
+    },
+    {
+      "valor": "New Zealand",
+      "moneda": {
+        "codigo": "NZD",
+        "descripcion": "Dólar neozelandés"
+      }
+    },
+    {
+      "valor": "Nicaragua",
+      "moneda": {
+        "codigo": "NIO",
+        "descripcion": "Córdoba nicaragüense"
+      }
+    },
+    {
+      "valor": "Niger",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Nigeria",
+      "moneda": {
+        "codigo": "NGN",
+        "descripcion": "Naira nigeriana"
+      }
+    },
+    {
+      "valor": "Niue",
+      "moneda": {
+        "codigo": "NZD",
+        "descripcion": "Dólar neozelandés"
+      }
+    },
+    {
+      "valor": "Norfolk Island",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Northern Mariana Islands",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Norway",
+      "moneda": {
+        "codigo": "NOK",
+        "descripcion": "Corona noruega"
+      }
+    },
+    {
+      "valor": "Oman",
+      "moneda": {
+        "codigo": "OMR",
+        "descripcion": "Rial omaní (de Omán)"
+      }
+    },
+    {
+      "valor": "Pakistan",
+      "moneda": {
+        "codigo": "PKR",
+        "descripcion": "Rupia pakistaní"
+      }
+    },
+    {
+      "valor": "Palau",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Palestinian Territory, Occupied",
+      "moneda": {
+        "codigo": "EGP",
+        "descripcion": "Libra egipcia"
+      }
+    },
+    {
+      "valor": "Panama",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Papua New Guinea",
+      "moneda": {
+        "codigo": "PGK",
+        "descripcion": "Kina de Papúa Nueva Guinea"
+      }
+    },
+    {
+      "valor": "Paraguay",
+      "moneda": {
+        "codigo": "PYG",
+        "descripcion": "Guaraní paraguayo"
+      }
+    },
+    {
+      "valor": "Peru",
+      "moneda": {
+        "codigo": "PEN",
+        "descripcion": "Sol"
+      }
+    },
+    {
+      "valor": "Philippines",
+      "moneda": {
+        "codigo": "PHP",
+        "descripcion": "Peso filipino"
+      }
+    },
+    {
+      "valor": "Pitcairn",
+      "moneda": {
+        "codigo": "NZD",
+        "descripcion": "Dólar neozelandés"
+      }
+    },
+    {
+      "valor": "Poland",
+      "moneda": {
+        "codigo": "PLN",
+        "descripcion": "Zloty polaco"
+      }
+    },
+    {
+      "valor": "Portugal",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Puerto Rico",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Qatar",
+      "moneda": {
+        "codigo": "QAR",
+        "descripcion": "Riyal catarí"
+      }
+    },
+    {
+      "valor": "Reunion",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Romania",
+      "moneda": {
+        "codigo": "RON",
+        "descripcion": "Leu rumano"
+      }
+    },
+    {
+      "valor": "Russian Federation",
+      "moneda": {
+        "codigo": "RUB",
+        "descripcion": "Rublo ruso"
+      }
+    },
+    {
+      "valor": "RWANDA",
+      "moneda": {
+        "codigo": "RWF",
+        "descripcion": "Franco ruandés"
+      }
+    },
+    {
+      "valor": "Saint Helena",
+      "moneda": {
+        "codigo": "SHP",
+        "descripcion": "Libra de Santa Helena"
+      }
+    },
+    {
+      "valor": "Saint Kitts and Nevis",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Saint Lucia",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Saint Pierre and Miquelon",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Saint Vincent and the Grenadines",
+      "moneda": {
+        "codigo": "XCD",
+        "descripcion": "Dólar del Caribe Oriental"
+      }
+    },
+    {
+      "valor": "Serbia and Montenegro",
+      "moneda": {
+        "codigo": "RSD",
+        "descripcion": "Dinar serbio"
+      }
+    },
+    {
+      "valor": "Samoa",
+      "moneda": {
+        "codigo": "WST",
+        "descripcion": "Tala samoana"
+      }
+    },
+    {
+      "valor": "San Marino",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Sao Tome and Principe",
+      "moneda": {
+        "codigo": "STD",
+        "descripcion": "Dobra de Santo Tomé y Príncipe"
+      }
+    },
+    {
+      "valor": "Saudi Arabia",
+      "moneda": {
+        "codigo": "SAR",
+        "descripcion": "Riyal saudí"
+      }
+    },
+    {
+      "valor": "Senegal",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Seychelles",
+      "moneda": {
+        "codigo": "SCR",
+        "descripcion": "Rupia de Seychelles"
+      }
+    },
+    {
+      "valor": "Sierra Leone",
+      "moneda": {
+        "codigo": "SLL",
+        "descripcion": "Leone de Sierra Leona"
+      }
+    },
+    {
+      "valor": "Singapore",
+      "moneda": {
+        "codigo": "SGD",
+        "descripcion": "Dólar de Singapur"
+      }
+    },
+    {
+      "valor": "Slovakia",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Slovenia",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Solomon Islands",
+      "moneda": {
+        "codigo": "SBD",
+        "descripcion": "Dólar de las Islas Salomón"
+      }
+    },
+    {
+      "valor": "Somalia",
+      "moneda": {
+        "codigo": "SOS",
+        "descripcion": "Chelín somalí"
+      }
+    },
+    {
+      "valor": "South Africa",
+      "moneda": {
+        "codigo": "ZAR",
+        "descripcion": "Rand sudafricano"
+      }
+    },
+    {
+      "valor": "South Georgia and the South Sandwich Islands",
+      "moneda": {
+        "codigo": "FKP",
+        "descripcion": "Libra malvinense"
+      }
+    },
+    {
+      "valor": "Spain",
+      "moneda": {
+        "codigo": "EUR",
+        "descripcion": "Euro"
+      }
+    },
+    {
+      "valor": "Sri Lanka",
+      "moneda": {
+        "codigo": "LKR",
+        "descripcion": "Rupia de Sri Lanka"
+      }
+    },
+    {
+      "valor": "Sudan",
+      "moneda": {
+        "codigo": "SDG",
+        "descripcion": "Libra sudanesa"
+      }
+    },
+    {
+      "valor": "Suri´valor",
+      "moneda": {}
+    },
+    {
+      "valor": "Svalbard and Jan Mayen",
+      "moneda": {
+        "codigo": "NOK",
+        "descripcion": "Corona noruega"
+      }
+    },
+    {
+      "valor": "Swaziland",
+      "moneda": {
+        "codigo": "ZAR",
+        "descripcion": "Rand sudafricano"
+      }
+    },
+    {
+      "valor": "Sweden",
+      "moneda": {
+        "codigo": "SEK",
+        "descripcion": "Corona sueca"
+      }
+    },
+    {
+      "valor": "Switzerland",
+      "moneda": {
+        "codigo": "CHF",
+        "descripcion": "Franco suizo"
+      }
+    },
+    {
+      "valor": "Syrian Arab Republic",
+      "moneda": {
+        "codigo": "SYP",
+        "descripcion": "Libra siria"
+      }
+    },
+    {
+      "valor": "Taiwan, Province of China",
+      "moneda": {
+        "codigo": "TWD",
+        "descripcion": "Nuevo dólar taiwanés"
+      }
+    },
+    {
+      "valor": "Tajikistan",
+      "moneda": {
+        "codigo": "TJS",
+        "descripcion": "Rublo tayik (de Tayikistán)"
+      }
+    },
+    {
+      "valor": "Tanzania, United Republic of",
+      "moneda": {
+        "codigo": "TZS",
+        "descripcion": "Chelín tanzano"
+      }
+    },
+    {
+      "valor": "Thailand",
+      "moneda": {
+        "codigo": "THB",
+        "descripcion": "Baht tailandés"
+      }
+    },
+    {
+      "valor": "Timor-Leste",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Togo",
+      "moneda": {
+        "codigo": "XOF",
+        "descripcion": "Franco CFA de África Occidental"
+      }
+    },
+    {
+      "valor": "Tokelau",
+      "moneda": {
+        "codigo": "NZD",
+        "descripcion": "Dólar neozelandés"
+      }
+    },
+    {
+      "valor": "Tonga",
+      "moneda": {
+        "codigo": "TOP",
+        "descripcion": "Pa´anga tongano"
+      }
+    },
+    {
+      "valor": "Trinidad and Tobago",
+      "moneda": {
+        "codigo": "TTD",
+        "descripcion": "Dólar de Trinidad y Tobago"
+      }
+    },
+    {
+      "valor": "Tunisia",
+      "moneda": {
+        "codigo": "TND",
+        "descripcion": "Dinar tunecino"
+      }
+    },
+    {
+      "valor": "Turkey",
+      "moneda": {
+        "codigo": "TRY",
+        "descripcion": "Lira turca"
+      }
+    },
+    {
+      "valor": "Turkmenistan",
+      "moneda": {
+        "codigo": "TMT",
+        "descripcion": "Nuevo Manat turcomano"
+      }
+    },
+    {
+      "valor": "Turks and Caicos Islands",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Tuvalu",
+      "moneda": {
+        "codigo": "AUD",
+        "descripcion": "Dólar australiano"
+      }
+    },
+    {
+      "valor": "Uganda",
+      "moneda": {
+        "codigo": "UGX",
+        "descripcion": "Chelín ugandés"
+      }
+    },
+    {
+      "valor": "Ukraine",
+      "moneda": {
+        "codigo": "UAH",
+        "descripcion": "Grivna"
+      }
+    },
+    {
+      "valor": "United Arab Emirates",
+      "moneda": {
+        "codigo": "AED",
+        "descripcion": "Dirham de los Emiratos Árabes Unidos"
+      }
+    },
+    {
+      "valor": "United Kingdom",
+      "moneda": {
+        "codigo": "GBP",
+        "descripcion": "Libra esterlina (de Gran Bretaña)"
+      }
+    },
+    {
+      "valor": "United States",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "United States Minor Outlying Islands",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Uruguay",
+      "moneda": {
+        "codigo": "UYU",
+        "descripcion": "Peso uruguayo"
+      }
+    },
+    {
+      "valor": "Uzbekistan",
+      "moneda": {
+        "codigo": "UZS",
+        "descripcion": "Som uzbeko"
+      }
+    },
+    {
+      "valor": "Vanuatu",
+      "moneda": {
+        "codigo": "VUV",
+        "descripcion": "Vatu vanuatense"
+      }
+    },
+    {
+      "valor": "Venezuela",
+      "moneda": {
+        "codigo": "VES",
+        "descripcion": "Bolívar"
+      }
+    },
+    {
+      "valor": "Viet Nam",
+      "moneda": {
+        "codigo": "VND",
+        "descripcion": "Dong vietnamita"
+      }
+    },
+    {
+      "valor": "Virgin Islands, British",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Virgin Islands, U.S.",
+      "moneda": {
+        "codigo": "USD",
+        "descripcion": "Dólar estadounidense"
+      }
+    },
+    {
+      "valor": "Wallis and Futuna",
+      "moneda": {
+        "codigo": "XPF",
+        "descripcion": "Franco CFP"
+      }
+    },
+    {
+      "valor": "Western Sahara",
+      "moneda": {
+        "codigo": "MAD",
+        "descripcion": "Dirham marroquí"
+      }
+    },
+    {
+      "valor": "Yemen",
+      "moneda": {
+        "codigo": "YER",
+        "descripcion": "Rial yemení (de Yemen)"
+      }
+    },
+    {
+      "valor": "Zambia",
+      "moneda": {
+        "codigo": "ZMK",
+        "descripcion": "Kwacha zambiano"
+      }
+    },
+    {
+      "valor": "Zimbabwe",
+      "moneda": {
+        "codigo": "ZWL",
+        "descripcion": "Dólar zimbabwés"
+      }
+    }
+  ]
+}

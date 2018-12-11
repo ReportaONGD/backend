@@ -1,0 +1,13 @@
+{
+    "costes": [
+      {
+        "valor": "Costes Directos Corrientes"
+      },
+      {
+        "valor": "Costes Directos Inversión"
+      },
+      {
+        "valor": "Costes Indirectos"
+      }
+    ]
+  }

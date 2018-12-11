@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Definido",
+    "estado": "OK",
+    "color": "green"
+  },
+  {
+    "nombre": "Pendiente",
+    "estado": "WARNING",
+    "color": "yellow"
+  },
+  {
+    "nombre": "Error",
+    "estado": "ERROR",
+    "color": "red"
+  }
+]

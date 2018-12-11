@@ -1,0 +1,652 @@
+{
+  "monedas": [
+    {
+      "codigo": "USD",
+      "descripcion": "Dólar estadounidense"
+    },
+    {
+      "codigo": "EUR",
+      "descripcion": "Euro"
+    },
+    {
+      "codigo": "PEN",
+      "descripcion": "Sol"
+    },
+    {
+      "codigo": "AFN",
+      "descripcion": "Afgani afgano"
+    },
+    {
+      "codigo": "MGA",
+      "descripcion": "Ariary malgache (de Madagascar)"
+    },
+    {
+      "codigo": "THB",
+      "descripcion": "Baht tailandés"
+    },
+    {
+      "codigo": "PAB",
+      "descripcion": "Balboa panameña"
+    },
+    {
+      "codigo": "ETB",
+      "descripcion": "Birr etíope"
+    },
+    {
+      "codigo": "VEF",
+      "descripcion": "Bolívar Fuerte"
+    },
+    {
+      "codigo": "VES",
+      "descripcion": "Bolívar"
+    },
+    {
+      "codigo": "BOB",
+      "descripcion": "Boliviano"
+    },
+    {
+      "codigo": "GHS",
+      "descripcion": "Cedi ghanés"
+    },
+    {
+      "codigo": "KES",
+      "descripcion": "Chelín keniano"
+    },
+    {
+      "codigo": "SOS",
+      "descripcion": "Chelín somalí"
+    },
+    {
+      "codigo": "TZS",
+      "descripcion": "Chelín tanzano"
+    },
+    {
+      "codigo": "UGX",
+      "descripcion": "Chelín ugandés"
+    },
+    {
+      "codigo": "CRC",
+      "descripcion": "Colón costarricense"
+    },
+    {
+      "codigo": "NIO",
+      "descripcion": "Córdoba nicaragüense"
+    },
+    {
+      "codigo": "CZK",
+      "descripcion": "Corona checa"
+    },
+    {
+      "codigo": "DKK",
+      "descripcion": "Corona danesa"
+    },
+    {
+      "codigo": "NOK",
+      "descripcion": "Corona noruega"
+    },
+    {
+      "codigo": "SEK",
+      "descripcion": "Corona sueca"
+    },
+    {
+      "codigo": "GMD",
+      "descripcion": "Dalasi gambiano"
+    },
+    {
+      "codigo": "MKD",
+      "descripcion": "Denar macedonio"
+    },
+    {
+      "codigo": "DZD",
+      "descripcion": "Dinar argelino"
+    },
+    {
+      "codigo": "BHD",
+      "descripcion": "Dinar bahreiní"
+    },
+    {
+      "codigo": "IQD",
+      "descripcion": "Dinar iraqí"
+    },
+    {
+      "codigo": "JOD",
+      "descripcion": "Dinar jordano"
+    },
+    {
+      "codigo": "KWD",
+      "descripcion": "Dinar kuwaití"
+    },
+    {
+      "codigo": "LYD",
+      "descripcion": "Dinar libio"
+    },
+    {
+      "codigo": "RSD",
+      "descripcion": "Dinar serbio"
+    },
+    {
+      "codigo": "TND",
+      "descripcion": "Dinar tunecino"
+    },
+    {
+      "codigo": "AED",
+      "descripcion": "Dirham de los Emiratos Árabes Unidos"
+    },
+    {
+      "codigo": "MAD",
+      "descripcion": "Dirham marroquí"
+    },
+    {
+      "codigo": "STD",
+      "descripcion": "Dobra de Santo Tomé y Príncipe"
+    },
+    {
+      "codigo": "AUD",
+      "descripcion": "Dólar australiano"
+    },
+    {
+      "codigo": "BSD",
+      "descripcion": "Dólar bahameño"
+    },
+    {
+      "codigo": "KYD",
+      "descripcion": "Dólar caimano (de Islas Caimán)"
+    },
+    {
+      "codigo": "CAD",
+      "descripcion": "Dólar canadiense"
+    },
+    {
+      "codigo": "BBD",
+      "descripcion": "Dólar de Barbados"
+    },
+    {
+      "codigo": "BZD",
+      "descripcion": "Dólar beliceño"
+    },
+    {
+      "codigo": "BMD",
+      "descripcion": "Dólar bermudeño"
+    },
+    {
+      "codigo": "BND",
+      "descripcion": "Dólar de Brunéi"
+    },
+    {
+      "codigo": "HKD",
+      "descripcion": "Dólar de Hong Kong"
+    },
+    {
+      "codigo": "SBD",
+      "descripcion": "Dólar de las Islas Salomón"
+    },
+    {
+      "codigo": "SGD",
+      "descripcion": "Dólar de Singapur"
+    },
+    {
+      "codigo": "TTD",
+      "descripcion": "Dólar de Trinidad y Tobago"
+    },
+    {
+      "codigo": "XCD",
+      "descripcion": "Dólar del Caribe Oriental"
+    },
+    {
+      "codigo": "USN",
+      "descripcion": "Dólar estadounidense (Siguiente día) (código de fondos)"
+    },
+    {
+      "codigo": "FJD",
+      "descripcion": "Dólar fiyiano"
+    },
+    {
+      "codigo": "GYD",
+      "descripcion": "Dólar guyanés"
+    },
+    {
+      "codigo": "JMD",
+      "descripcion": "Dólar jamaicano"
+    },
+    {
+      "codigo": "LRD",
+      "descripcion": "Dólar liberiano"
+    },
+    {
+      "codigo": "NAD",
+      "descripcion": "Dólar namibio"
+    },
+    {
+      "codigo": "NZD",
+      "descripcion": "Dólar neozelandés"
+    },
+    {
+      "codigo": "SRD",
+      "descripcion": "Dólar surinamés (desde el 1 de enero de 2004)"
+    },
+    {
+      "codigo": "TWD",
+      "descripcion": "Nuevo dólar taiwanés"
+    },
+    {
+      "codigo": "ZWL",
+      "descripcion": "Dólar zimbabwés"
+    },
+    {
+      "codigo": "VND",
+      "descripcion": "Dong vietnamita"
+    },
+    {
+      "codigo": "AMD",
+      "descripcion": "Dram armenio"
+    },
+    {
+      "codigo": "SVC",
+      "descripcion": "El Salvador Colon"
+    },
+    {
+      "codigo": "CVE",
+      "descripcion": "Escudo caboverdiano"
+    },
+    {
+      "codigo": "HUF",
+      "descripcion": "Forinto húngaro"
+    },
+    {
+      "codigo": "XAF",
+      "descripcion": "Franco CFA de África Central"
+    },
+    {
+      "codigo": "XOF",
+      "descripcion": "Franco CFA de África Occidental"
+    },
+    {
+      "codigo": "BIF",
+      "descripcion": "Franco burundés"
+    },
+    {
+      "codigo": "KMF",
+      "descripcion": "Franco comoriano (de Comoras)"
+    },
+    {
+      "codigo": "XPF",
+      "descripcion": "Franco CFP"
+    },
+    {
+      "codigo": "CDF",
+      "descripcion": "Franco congoleño"
+    },
+    {
+      "codigo": "GNF",
+      "descripcion": "Franco guineano"
+    },
+    {
+      "codigo": "RWF",
+      "descripcion": "Franco ruandés"
+    },
+    {
+      "codigo": "CHF",
+      "descripcion": "Franco suizo"
+    },
+    {
+      "codigo": "DJF",
+      "descripcion": "Franco yibutiano"
+    },
+    {
+      "codigo": "HTG",
+      "descripcion": "Gourde haitiano"
+    },
+    {
+      "codigo": "PYG",
+      "descripcion": "Guaraní paraguayo"
+    },
+    {
+      "codigo": "AWG",
+      "descripcion": "Florín arubeño"
+    },
+    {
+      "codigo": "ANG",
+      "descripcion": "Florín antillano neerlandés"
+    },
+    {
+      "codigo": "UAH",
+      "descripcion": "Grivna"
+    },
+    {
+      "codigo": "PGK",
+      "descripcion": "Kina de Papúa Nueva Guinea"
+    },
+    {
+      "codigo": "LAK",
+      "descripcion": "Kip lao"
+    },
+    {
+      "codigo": "ISK",
+      "descripcion": "Corona islandesa"
+    },
+    {
+      "codigo": "HRK",
+      "descripcion": "Kuna croata"
+    },
+    {
+      "codigo": "MWK",
+      "descripcion": "Kwacha malawiano"
+    },
+    {
+      "codigo": "ZMK",
+      "descripcion": "Kwacha zambiano"
+    },
+    {
+      "codigo": "AOA",
+      "descripcion": "Kwanza angoleño"
+    },
+    {
+      "codigo": "MMK",
+      "descripcion": "Kyat birmano"
+    },
+    {
+      "codigo": "GEL",
+      "descripcion": "Lari georgiano"
+    },
+    {
+      "codigo": "LVL",
+      "descripcion": "Lat letón"
+    },
+    {
+      "codigo": "ALL",
+      "descripcion": "Lek albano"
+    },
+    {
+      "codigo": "HNL",
+      "descripcion": "Lempira hondureña"
+    },
+    {
+      "codigo": "SLL",
+      "descripcion": "Leone de Sierra Leona"
+    },
+    {
+      "codigo": "MDL",
+      "descripcion": "Leu moldavo"
+    },
+    {
+      "codigo": "RON",
+      "descripcion": "Leu rumano"
+    },
+    {
+      "codigo": "BGN",
+      "descripcion": "Lev búlgaro"
+    },
+    {
+      "codigo": "GIP",
+      "descripcion": "Libra de Gibraltar"
+    },
+    {
+      "codigo": "GBP",
+      "descripcion": "Libra de Guernsey"
+    },
+    {
+      "codigo": "SHP",
+      "descripcion": "Libra de Santa Helena"
+    },
+    {
+      "codigo": "EGP",
+      "descripcion": "Libra egipcia"
+    },
+    {
+      "codigo": "GBP",
+      "descripcion": "Libra esterlina (de Gran Bretaña)"
+    },
+    {
+      "codigo": "LBP",
+      "descripcion": "Libra libanesa"
+    },
+    {
+      "codigo": "FKP",
+      "descripcion": "Libra malvinense"
+    },
+    {
+      "codigo": "SYP",
+      "descripcion": "Libra siria"
+    },
+    {
+      "codigo": "SDG",
+      "descripcion": "Libra sudanesa"
+    },
+    {
+      "codigo": "SZL",
+      "descripcion": "Lilangeni suazi (de Suazilandia)"
+    },
+    {
+      "codigo": "LTL",
+      "descripcion": "Litas lituano"
+    },
+    {
+      "codigo": "LSL",
+      "descripcion": "Loti lesothense (de Lesotho)"
+    },
+    {
+      "codigo": "AZN",
+      "descripcion": "Manat azerbaiyano"
+    },
+    {
+      "codigo": "BAM",
+      "descripcion": "Marco bosnioherzegovino"
+    },
+    {
+      "codigo": "MZN",
+      "descripcion": "Metical mozambiqueño"
+    },
+    {
+      "codigo": "NGN",
+      "descripcion": "Naira nigeriana"
+    },
+    {
+      "codigo": "ERN",
+      "descripcion": "Nakfa eritreo"
+    },
+    {
+      "codigo": "BTN",
+      "descripcion": "Ngultrum de Bután"
+    },
+    {
+      "codigo": "TRY",
+      "descripcion": "Lira turca"
+    },
+    {
+      "codigo": "TMT",
+      "descripcion": "Nuevo Manat turcomano"
+    },
+    {
+      "codigo": "ILS",
+      "descripcion": "Nuevo shequel israelí"
+    },
+    {
+      "codigo": "MRO",
+      "descripcion": "Ouguiya mauritana"
+    },
+    {
+      "codigo": "TOP",
+      "descripcion": "Pa´anga tongano"
+    },
+    {
+      "codigo": "MOP",
+      "descripcion": "Pataca macaense"
+    },
+    {
+      "codigo": "ARS",
+      "descripcion": "Peso argentino"
+    },
+    {
+      "codigo": "CLP",
+      "descripcion": "Peso chileno"
+    },
+    {
+      "codigo": "COP",
+      "descripcion": "Peso colombiano"
+    },
+    {
+      "codigo": "CUP",
+      "descripcion": "Peso cubano"
+    },
+    {
+      "codigo": "CUC",
+      "descripcion": "Peso cubano Convertible"
+    },
+    {
+      "codigo": "DOP",
+      "descripcion": "Peso dominicano"
+    },
+    {
+      "codigo": "PHP",
+      "descripcion": "Peso filipino"
+    },
+    {
+      "codigo": "MXN",
+      "descripcion": "Peso mexicano"
+    },
+    {
+      "codigo": "UYU",
+      "descripcion": "Peso uruguayo"
+    },
+    {
+      "codigo": "BWP",
+      "descripcion": "Pula de Botswana"
+    },
+    {
+      "codigo": "GTQ",
+      "descripcion": "Quetzal guatemalteco"
+    },
+    {
+      "codigo": "ZAR",
+      "descripcion": "Rand sudafricano"
+    },
+    {
+      "codigo": "BRL",
+      "descripcion": "Real brasileño"
+    },
+    {
+      "codigo": "IRR",
+      "descripcion": "Rial iraní"
+    },
+    {
+      "codigo": "OMR",
+      "descripcion": "Rial omaní (de Omán)"
+    },
+    {
+      "codigo": "QAR",
+      "descripcion": "Riyal catarí"
+    },
+    {
+      "codigo": "YER",
+      "descripcion": "Rial yemení (de Yemen)"
+    },
+    {
+      "codigo": "KHR",
+      "descripcion": "Riel camboyano"
+    },
+    {
+      "codigo": "MYR",
+      "descripcion": "Ringgit malayo"
+    },
+    {
+      "codigo": "SAR",
+      "descripcion": "Riyal saudí"
+    },
+    {
+      "codigo": "BYR",
+      "descripcion": "Rublo bielorruso"
+    },
+    {
+      "codigo": "RUB",
+      "descripcion": "Rublo ruso"
+    },
+    {
+      "codigo": "TJS",
+      "descripcion": "Rublo tayik (de Tayikistán)"
+    },
+    {
+      "codigo": "MVR",
+      "descripcion": "Rufiyaa maldiva"
+    },
+    {
+      "codigo": "SCR",
+      "descripcion": "Rupia de Seychelles"
+    },
+    {
+      "codigo": "LKR",
+      "descripcion": "Rupia de Sri Lanka"
+    },
+    {
+      "codigo": "INR",
+      "descripcion": "Rupia india"
+    },
+    {
+      "codigo": "MUR",
+      "descripcion": "Rupia mauricia"
+    },
+    {
+      "codigo": "NPR",
+      "descripcion": "Rupia nepalí"
+    },
+    {
+      "codigo": "PKR",
+      "descripcion": "Rupia pakistaní"
+    },
+    {
+      "codigo": "IDR",
+      "descripcion": "Rupiah indonesia"
+    },
+    {
+      "codigo": "KGS",
+      "descripcion": "Som kirguís (de Kirguistán)"
+    },
+    {
+      "codigo": "UZS",
+      "descripcion": "Som uzbeko"
+    },
+    {
+      "codigo": "BDT",
+      "descripcion": "Taka bangladesí"
+    },
+    {
+      "codigo": "WST",
+      "descripcion": "Tala samoana"
+    },
+    {
+      "codigo": "KZT",
+      "descripcion": "Tenge kazajo (de Kazajstán)"
+    },
+    {
+      "codigo": "MNT",
+      "descripcion": "Tughrik mongol"
+    },
+    {
+      "codigo": "USS",
+      "descripcion": "United States dollar (Mismo día) (código de fondos)"
+    },
+    {
+      "codigo": "VUV",
+      "descripcion": "Vatu vanuatense"
+    },
+    {
+      "codigo": "KPW",
+      "descripcion": "Won norcoreano"
+    },
+    {
+      "codigo": "KRW",
+      "descripcion": "Won surcoreano"
+    },
+    {
+      "codigo": "JPY",
+      "descripcion": "Yen japonés"
+    },
+    {
+      "codigo": "CNY",
+      "descripcion": "Yuan Renminbi"
+    },
+    {
+      "codigo": "PLN",
+      "descripcion": "Zloty polaco"
+    }
+  ]
+}

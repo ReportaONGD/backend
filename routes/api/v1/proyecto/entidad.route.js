@@ -1,0 +1,7 @@
+﻿var router = require('express').Router();
+const controller = require('../../../../controllers/proyecto/entidad.controller');
+
+require('../../../../controllers/base/param_proyecto_id')(router);
+require('../base/base.route')(router,'/:proyecto_id/entidad', controller);
+
+module.exports = router;

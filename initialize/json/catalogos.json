@@ -1,0 +1,229 @@
+{
+  "tipo_personal": [
+    {
+      "codigo": "PL",
+      "valor": "Personal Local"
+    },
+    {
+      "codigo": "PE",
+      "valor": "Personal Expatriado"
+    },
+    {
+      "codigo": "PS",
+      "valor": "Personal en Sede"
+    },
+    {
+      "codigo": "PV",
+      "valor": "Personal Voluntario"
+    }
+  ],
+  "localizacion": [
+    {
+      "valor": "Nacional"
+    },
+    {
+      "valor": "Exterior"
+    }
+  ],
+  "cofinanciador": [
+    {
+      "valor": "AECID"
+    },
+    {
+      "valor": "Fondos Propios"
+    },
+    {
+      "valor": "Otros"
+    }
+  ],
+  "tipo_movimiento": [
+    {
+      "valor": "Transferencia",
+      "es_entrada": false,
+      "origen": false,
+      "destino": true,
+      "pago" : true
+    },
+    {
+      "valor": "Cambio",
+      "es_entrada": false,
+      "origen": false,
+      "destino": true,
+      "pago" : false
+    },
+    {
+      "valor": "Retirada",
+      "es_entrada": false,
+      "origen": false,
+      "destino": false,
+      "pago" : false
+    },
+    {
+      "valor": "Ingreso",
+      "es_entrada": true,
+      "origen": false,
+      "destino": true,
+      "pago" : false
+    },
+    {
+      "valor": "Intereses",
+      "es_entrada": true,
+      "origen": false,
+      "destino": false,
+      "pago" : false
+
+    },
+    {
+      "valor": "Subvención",
+      "es_entrada": true,
+      "origen": true,
+      "destino": true,
+      "pago" : false
+    },
+    {
+      "valor": "Reintegro de Subvención",
+      "es_entrada": false,
+      "origen": true,
+      "destino": true,
+      "pago" : false
+    },
+    {
+      "valor": "IVA Recuperado",
+      "es_entrada": true,
+      "origen": false,
+      "destino": true,
+      "pago" : false
+    },
+    {
+      "valor": "Cheque",
+      "es_entrada": false,
+      "origen": true,
+      "destino": false,
+      "pago" : true
+    }
+  ],
+  "tipo_valoracion": [
+    {
+      "valor": "Pertinencia"
+    },
+    {
+      "valor": "Coherencia"
+    },
+    {
+      "valor": "Eficacia e Impacto"
+    },
+    {
+      "valor": "Viabilidad"
+    },
+    {
+      "valor": "Cobertura"
+    },
+    {
+      "valor": "Eficacia"
+    },
+    {
+      "valor": "Amornización"
+    },
+    {
+      "valor": "Otros Criterios"
+    },
+    {
+      "valor": "Grado de Participación"
+    },
+    {
+      "valor": "Grado deA lineamiento"
+    },
+    {
+      "valor": "Puntos Fuertes y Débiles"
+    },
+    {
+      "valor": "Observaciones"
+    },
+    {
+      "valor": "Transferencia del Proyecto"
+    },
+    {
+      "valor": "Receptividad del Socio y Colectivo Meta"
+    },
+    {
+      "valor": "Visibilidad y Complementariedad"
+    }
+  ],
+  "tipo_periodo": [
+    {
+      "codigo": "INF_INT",
+      "nombre": "Informe Intermedio"
+    },
+    {
+      "codigo": "INF_FIN",
+      "nombre": "Informe FIN"
+    }
+  ],
+  "estado_proyecto": [
+    {
+      "nombre": "Configuración"
+    },
+    {
+      "nombre": "Formulación"
+    },
+    {
+      "nombre": "Ejecución"
+    }
+  ],
+  "agentes": [
+    {
+      "nombre": "AECID",
+      "descripcion": "AECID",
+      "publico": true,
+      "socio_local": false,
+      "implementador": false,
+      "financiador": true
+    },{
+      "nombre": "ONG_INT",
+      "descripcion": "ONG_INT",
+      "publico": true,
+      "socio_local": true,
+      "implementador": true,
+      "financiador": true
+    }
+  ],
+  "financiadores": [
+    {
+      "nombre": "AECID",
+      "descripcion": "AECID",
+      "publico": true
+    },{
+      "nombre": "ONG_INT",
+      "descripcion": "ONG_INT",
+      "publico": true
+    }
+  ],
+  "implementador":[
+    {
+      "nombre": "ONG_INT",
+      "descripcion": "ONG_INT",
+      "publico": true
+    }
+  ],
+  "contratos": [
+    {
+      "valor": "Indefinido"
+    },
+    {
+      "valor": "Obra y Servicio"
+    }
+  ],
+  "roles": [
+    {
+      "valor": "Administrador"
+    },
+    {
+      "valor": "Usuario"
+    }
+  ], 
+  "convocatorias": [{
+    "codigo": "AECID",
+    "nombre": "AECID",
+    "financiador": {}
+  }]
+}

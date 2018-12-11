@@ -1,0 +1,60 @@
+﻿const router = require('express').Router();
+
+// Esta clase implementa el metodo que obtiene e usuario 
+// para ser usado en el resto de servicios
+const base = require('./base.route');
+const user = require('./user.route');
+const import_excel = require('./import_excel.route');
+const categoria = require('./categoria.route');
+const convocatoria = require('./convocatoria.route');
+const cofinanciador = require('./cofinanciador.route');
+const contrato = require('./contrato.route');
+const localizacion = require('./localizacion.route');
+const estados_informe = require('./estados_informe.route');
+const estados_proyecto = require('./estados_proyecto.route');
+const tipo_movimiento = require('./tipo_movimiento.route');
+const tipo_valoracion = require('./tipo_valoracion.route');
+const costes = require('./costes.route');
+const tipo_personal = require('./tipo_personal.route');
+const tipo_periodo = require('./tipo_periodo.route');
+const moneda = require('./moneda.route');
+const tipo_actividad = require('./tipo_actividad.route');
+const empresa = require('./empresa.route');
+const tipo_partida = require('./tipo_partida.route');
+const pais = require('./pais.route');
+const agente = require('./agente.route');
+const financiador = require('./financiador.route');
+const implementador = require('./implementador.route');
+const socio_local = require('./socio_local.route');
+const rol = require('./rol.route');
+const gong = require('./gong.route');
+
+router.use(base);
+router.use('/proyecto', require('./proyecto'));
+router.use(import_excel);
+router.use(user);
+router.use(rol);
+router.use(convocatoria);
+router.use(categoria);
+router.use(cofinanciador);
+router.use(contrato);
+router.use(localizacion);
+router.use(estados_informe);
+router.use(estados_proyecto);
+router.use(tipo_movimiento);
+router.use(tipo_valoracion);
+router.use(tipo_periodo);
+router.use(costes);
+router.use(tipo_personal);
+router.use(moneda);
+router.use(tipo_actividad);
+router.use(empresa);
+router.use(tipo_partida);
+router.use(pais);
+router.use(agente);
+router.use(financiador);
+router.use(implementador);
+router.use(socio_local);
+router.use(gong);
+
+module.exports = router;

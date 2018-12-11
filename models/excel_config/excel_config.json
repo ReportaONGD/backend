@@ -1,0 +1,732 @@
+{
+  "ExcelConfig": {
+    "DESCRIPCION": {
+      "codigo": "C4",
+      "titulo": "B10",
+      "ong_agrupacion": "B11",
+      "pais": "B12",
+      "provincia_municipio": "B13",
+      "socio_local": "B14",
+      "entidad": "B15",
+      "coste_total": "B16",
+      "aportacion_financiador": "B17",
+      "aportacion_ong": "B18",
+      "aportacion": "B20-C30",
+      "fecha_inicio": "B31",
+      "duracion": "B32",
+      "fecha_fin": "B33",
+      "auditoria": "B40",
+      "modificaciones": {
+        "column": "B",
+        "start": 35,
+        "end": 39
+      },
+      "subvencion_ejecutada": "B41",
+      "informe_1": {
+        "fecha_cierre_periodo": "B42",
+        "fecha_elaboracion_informe": "B43",
+        "autor": "B44",
+        "firma": "B45"
+      },
+      "informe_2": {
+        "fecha_cierre_periodo": "B46", 
+        "fecha_elaboracion_informe": "B47",
+        "autor": "B48",
+        "firma": "B49" 
+      },
+      "final": {
+        "fecha_cierre_periodo": "B50", 
+        "fecha_elaboracion_informe": "B51",
+        "autor": "B52",
+        "firma": "B53" 
+      }
+    },
+    "DESCRIPCION_DETALLADA": {
+      "celda": "A9"
+    },
+    "MATRIZ_PLANIFICACION": {
+      "DATOS_GENERALES": {
+        "titulo": "B5",
+        "socio_local": "B7",
+        "ong_agrupacion": "B6",
+        "fecha_inicio": "B8",
+        "duracion": "B9",
+        "fecha_fin": "D8"
+      },
+      "OBJETIVO_GENERAL": {
+        "descripcion": "A",
+        "indicador": {
+          "descripcion": "B",
+          "linea_base": "D",
+          "meta": "E",
+          "comentarios": "I",
+          "fuente_verificacion": "J",
+           "comentarios_ong": "K",
+          "comentarios_aecid": "L",
+          "start": 13
+        }
+      },
+      "OBJETIVO_ESPECIFICO": {
+        "descripcion": {
+          "texto": "Objetivo específico",
+          "celda": "A"
+        },
+        "indicadores": {
+          "texto": "Definición indicadores del Objetivo específico",
+          "celda": "B"
+        },
+        "linea_base": {
+          "texto": "Línea de Base",
+          "celda": "D"
+        },
+        "meta": {
+          "texto": "Meta Final",
+          "celda": "E"
+        },
+        "primer_periodo": {
+          "texto": "Alcanzado primer periodo(2)",
+          "celda": "F"
+        },
+        "segundo_periodo": {
+          "texto": "Alcanzado segundo periodo(2)",
+          "celda": "G"
+        },
+        "final": {
+          "texto": "Alcanzado al final del proyecto(2)",
+          "celda": "H"
+        },
+        "comentarios": {
+          "texto": "Comentarios",
+          "celda": "I"
+        },
+        "fuente_verificacion": {
+          "texto": "Fuente de verificacion",
+          "celda": "J"
+        },
+        "comentarios_ong": {
+          "texto": "Comentarios Dept ONGD",
+          "celda": "K"
+        },
+        "comentarios_geo": {
+          "texto": "Comentarios OTC/Dept Geo.",
+          "celda": "L"
+        }
+      },
+      "RESULTADO": {
+        "descripcion": {
+          "texto": "Resultado: ",
+          "celda": "A"
+        },
+        "indicadores": {
+          "texto": "Definición indicadores del Resultado",
+          "celda": "B"
+        },
+        "linea_base": {
+          "texto": "Línea de Base",
+          "celda": "D"
+        },
+        "meta": {
+          "texto": "Meta Final",
+          "celda": "E"
+        },
+        "primer_periodo": {
+          "texto": "Alcanzado primer periodo(2)",
+          "celda": "F"
+        },
+        "segundo_periodo": {
+          "texto": "Alcanzado segundo periodo(2)",
+          "celda": "G"
+        },
+        "final": {
+          "texto": "Alcanzado al final del proyecto(2)",
+          "celda": "H"
+        },
+        "comentarios": {
+          "texto": "Comentarios",
+          "celda": "I"
+        },
+        "fuente_verificacion": {
+          "texto": "Fuente de verificacion.",
+          "celda": "J"
+        },
+        "comentarios_ong": {
+          "texto": " ",
+          "celda": "K"
+        },
+        "comentarios_geo": {
+          "texto": " ",
+          "celda": "L"
+        }
+      },
+      "ACTIVIDADES": {
+        "descripcion": {
+          "texto": "Actividades del Recurso: ",
+          "celda": "A"
+        },
+        "recursos": {
+          "texto": "Recursos para toda la actividad",
+          "celda": "B"
+        },
+        "costes": {
+          "texto": "Costes",
+          "celda": "C"
+        },
+        "blancos":{"celda": "D-E,K-L", "texto": ""},
+        "primer_periodo": {
+          "texto": "Realizadas primer periodo",
+          "celda": "F"
+        },
+        "segundo_periodo": {
+          "texto": "Realizadas segundo periodo",
+          "celda": "G"
+        },
+        "final": {
+          "texto": "Realizadas al final del proyecto",
+          "celda": "H"
+        },
+        "comentarios": {
+          "texto": "Comentarios",
+          "celda": "I-J"
+        }
+      },
+      "ACTIVIDAD": {
+        "descripcion": "A",
+        "comentarios": "I-J",
+        "blancos": "D-E,K-L",
+        "recursos": {"texto": "B", "costes": "C", "totales": {"from": "A", "to": "B", "text" : "Coste total previsto para ", "total": "C"}}
+      },
+      "TOTALES":{
+        "header": {"from": "A", "to": "L", "text": "TOTALES"},
+        "body": {"from": "A", "to": "B", "text" : "Coste total previsto (suma de resultados)", "total": "C"}
+      },
+      "CONDICIONES_PREVIAS": {
+        "text": "Condiciones previas, (condiciones que deben de cumplirse antes de poder iniciar el proyecto): ",
+        "from": "A",
+        "to": "L"
+      }, 
+      "COMENTARIOS_ONGD": {
+        "data": {"text": "Comentarios de la ONGD sobre algún aspecto de la matriz: ",
+        "from": "A",
+        "to": "J" },
+        "blancos": "K-L"
+      }
+    },
+    "PERSONAS": {
+      "nombre": "A",
+      "tipo_personal": "B",
+      "categoria": "C",
+      "residencia": "D",
+      "contrato": "E",
+      "horas_imputadas": "F",
+      "salario_mensual": "G",
+      "meses": "H",
+      "salario_total": "I",
+      "start": 11,
+      "end": 30
+    },
+    "ESTADO_TESORERIA": {
+      "cuentas":{
+        "column": "C",
+        "cuentas_bancarias_espana":{
+          "start": 10
+        },
+        "cuentas_bancarias_exterior": {
+          "start": 17
+        }
+      },
+      "ingresos_transferencias":{
+        "start": 29,
+        "E1": "C",
+        "E2": "D",
+        "PD1": "E",
+        "PD2": "F"
+      }
+    },
+    "TRANSFERENCIAS_CAMBIOS": {
+      "total_fondos": {
+        "euros_transferidos": "B",
+        "euros_recibidos": "C",
+        "fecha": "A",
+        "tasa_cambio_euros": "D",
+        "financiador": "E-F",
+        "start": 16
+      },
+      "total_cambiario": {
+        "euros_transferidos": "B",
+        "euros_recibidos": "C",
+        "fecha": "A",
+        "tasa_cambio_local": "D",
+        "tasa_cambio_euros": "E",
+        "financiador": "F",
+        "start": 40
+      }
+    },
+    "BIENES": {
+      "emisor": "A",
+      "concepto": "B",
+      "fecha": "C",
+      "cantidad": "D",
+      "importe_local": "E",
+      "start": 9
+    },
+    "DOCUMENTOS": {
+      "numero_orden": "A",
+      "fecha": "B",
+      "emisor": "C",
+      "concepto": "D",
+      "partida": "E",
+      "moneda": "F",
+      "euros": "J",
+      "tipo_de_cambio_dm": "G",
+      "tipo_de_cambio_ld": "I",
+      "financiador": {
+        "aecid": "K",
+        "fondos_propios": "L",
+        "otros": "M"
+      },
+      "start": 14
+    },
+    "CRONOGRAMA": {
+      "meses": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z",
+        "AA",
+        "AB",
+        "AC",
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AH",
+        "AI",
+        "AJ",
+        "AK"
+      ]
+    },
+    "PRESUPUESTOS": {
+      "totales": {
+        "A.I.1": {
+          "aecid": "B16",
+          "otro": "D16"
+        },
+        "A.I.2": {
+          "aecid": "B17",
+          "otro": "D17"
+        },
+        "A.I.3": {
+          "aecid": "B18",
+          "otro": "D18"
+        },
+        "A.I.4": {
+          "aecid": "B19",
+          "otro": "D19"
+        },
+        "A.I.5": {
+          "aecid": "B20",
+          "otro": "D20"
+        },
+        "A.I.6.1": {
+          "aecid": "B22",
+          "otro": "D22"
+        },
+        "A.I.6.2": {
+          "aecid": "B23",
+          "otro": "D23"
+        },
+        "A.I.6.3": {
+          "aecid": "B24",
+          "otro": "D24"
+        },
+        "A.I.6.4": {
+          "aecid": "B25",
+          "otro": "D25"
+        },
+        "A.I.7": {
+          "aecid": "B26",
+          "otro": "D26"
+        },
+        "A.I.8": {
+          "aecid": "B27",
+          "otro": "D27"
+        },
+        "A.I.9": {
+          "aecid": "B28",
+          "otro": "D28"
+        },
+        "A.II.1": {
+          "aecid": "B31",
+          "otro": "D31"
+        },
+        "A.II.2.1": {
+          "aecid": "B33",
+          "otro": "D33"
+        },
+        "A.II.2.2": {
+          "aecid": "B34",
+          "otro": "D34"
+        },
+        "A.II.3": {
+          "aecid": "B35",
+          "otro": "D35"
+        },
+        "A.III.1": {
+          "aecid": "B40",
+          "otro": "D40"
+        },
+        "A.III.2": {
+          "aecid": "B41",
+          "otro": "D41"
+        }
+      },
+      "informe_1": {
+        "A.I.1": {
+          "aecid": "F16",
+          "otro": "G16"
+        },
+        "A.I.2": {
+          "aecid": "F17",
+          "otro": "G17"
+        },
+        "A.I.3": {
+          "aecid": "F18",
+          "otro": "G18"
+        },
+        "A.I.4": {
+          "aecid": "F19",
+          "otro": "G19"
+        },
+        "A.I.5": {
+          "aecid": "F20",
+          "otro": "G20"
+        },
+        "A.I.6.1": {
+          "aecid": "F22",
+          "otro": "G22"
+        },
+        "A.I.6.2": {
+          "aecid": "F23",
+          "otro": "G23"
+        },
+        "A.I.6.3": {
+          "aecid": "F24",
+          "otro": "G24"
+        },
+        "A.I.6.4": {
+          "aecid": "F25",
+          "otro": "G25"
+        },
+        "A.I.7": {
+          "aecid": "F26",
+          "otro": "G26"
+        },
+        "A.I.8": {
+          "aecid": "F27",
+          "otro": "G27"
+        },
+        "A.I.9": {
+          "aecid": "F28",
+          "otro": "G28"
+        },
+        "A.II.1": {
+          "aecid": "F31",
+          "otro": "G31"
+        },
+        "A.II.2.1": {
+          "aecid": "F33",
+          "otro": "G33"
+        },
+        "A.II.2.2": {
+          "aecid": "F34",
+          "otro": "G34"
+        },
+        "A.II.3": {
+          "aecid": "F35",
+          "otro": "G35"
+        },
+        "A.III.1": {
+          "aecid": "F40",
+          "otro": "G40"
+        },
+        "A.III.2": {
+          "aecid": "F41",
+          "otro": "G41"
+        }
+      },
+      "informe_2": {
+        "A.I.1": {
+          "aecid": "J16",
+          "otro": "K16"
+        },
+        "A.I.2": {
+          "aecid": "J17",
+          "otro": "K17"
+        },
+        "A.I.3": {
+          "aecid": "J18",
+          "otro": "K18"
+        },
+        "A.I.4": {
+          "aecid": "J19",
+          "otro": "K19"
+        },
+        "A.I.5": {
+          "aecid": "J20",
+          "otro": "K20"
+        },
+        "A.I.6.1": {
+          "aecid": "J22",
+          "otro": "K22"
+        },
+        "A.I.6.2": {
+          "aecid": "J23",
+          "otro": "K23"
+        },
+        "A.I.6.3": {
+          "aecid": "J24",
+          "otro": "K24"
+        },
+        "A.I.6.4": {
+          "aecid": "J25",
+          "otro": "K25"
+        },
+        "A.I.7": {
+          "aecid": "J26",
+          "otro": "K26"
+        },
+        "A.I.8": {
+          "aecid": "J27",
+          "otro": "K27"
+        },
+        "A.I.9": {
+          "aecid": "J28",
+          "otro": "K28"
+        },
+        "A.II.1": {
+          "aecid": "J31",
+          "otro": "K31"
+        },
+        "A.II.2.1": {
+          "aecid": "J33",
+          "otro": "K33"
+        },
+        "A.II.2.2": {
+          "aecid": "J34",
+          "otro": "K34"
+        },
+        "A.II.3": {
+          "aecid": "J35",
+          "otro": "K35"
+        },
+        "A.III.1": {
+          "aecid": "J40",
+          "otro": "K40"
+        },
+        "A.III.2": {
+          "aecid": "J41",
+          "otro": "K41"
+        }
+      },
+      "final": {
+        "A.I.1": {
+          "aecid": "N16",
+          "otro": "O16"
+        },
+        "A.I.2": {
+          "aecid": "N17",
+          "otro": "O17"
+        },
+        "A.I.3": {
+          "aecid": "N18",
+          "otro": "O18"
+        },
+        "A.I.4": {
+          "aecid": "N19",
+          "otro": "O19"
+        },
+        "A.I.5": {
+          "aecid": "N20",
+          "otro": "O20"
+        },
+        "A.I.6.1": {
+          "aecid": "N22",
+          "otro": "O22"
+        },
+        "A.I.6.2": {
+          "aecid": "N23",
+          "otro": "O23"
+        },
+        "A.I.6.3": {
+          "aecid": "N24",
+          "otro": "O24"
+        },
+        "A.I.6.4": {
+          "aecid": "N25",
+          "otro": "O25"
+        },
+        "A.I.7": {
+          "aecid": "N26",
+          "otro": "O26"
+        },
+        "A.I.8": {
+          "aecid": "N27",
+          "otro": "O27"
+        },
+        "A.I.9": {
+          "aecid": "N28",
+          "otro": "O28"
+        },
+        "A.II.1": {
+          "aecid": "N31",
+          "otro": "O31"
+        },
+        "A.II.2.1": {
+          "aecid": "N33",
+          "otro": "O33"
+        },
+        "A.II.2.2": {
+          "aecid": "N34",
+          "otro": "O34"
+        },
+        "A.II.3": {
+          "aecid": "N35",
+          "otro": "O35"
+        },
+        "A.III.1": {
+          "aecid": "N40",
+          "otro": "O40"
+        },
+        "A.III.2": {
+          "aecid": "N41",
+          "otro": "O41"
+        }
+      }
+      
+    },
+    "VALORACION_GENERAL": {
+      "informe_1": {
+        "valoracion_general": "B9",
+        "grado_de_alineamiento": "B14",
+        "puntos_fuertes_debiles":"B21",
+        "observaciones": "B26"
+      },
+      "informe_2": {
+        "valoracion_general": "B10",
+        "grado_de_alineamiento": "B15",
+        "puntos_fuertes_debiles":"B22",
+        "observaciones": "B27"
+      },
+      "final": {
+        "valoracion_general": "B11",
+        "grado_de_alineamiento": "B16",
+        "puntos_fuertes_debiles":"B23",
+        "observaciones": "B28",
+        "modificacion_proyecto_inicial": "B31"
+      }
+    },
+    "INCIDENCIAS": {
+      "informe_1": {
+        "modificaciones_sustanciales": {"start":9, "end": 18, "column": "B"},
+        "modificaciones_accidentales": {"start":40, "end": 49, "column": "B"},
+        "actividades_previstas": {"start":71, "end": 80, "column": "B"},
+        "nuevas_actividades_npi": {"start":102, "end": 111, "column": "B"}
+      },
+      "informe_2": {
+        "modificaciones_sustanciales": {"start":19, "end": 28, "column": "B"},
+        "modificaciones_accidentales": {"start":50, "end": 59, "column": "B"},
+        "actividades_previstas": {"start":81, "end": 90, "column": "B"},
+        "nuevas_actividades_npi": {"start":112, "end": 121, "column": "B"}
+      },
+      "final": {
+        "modificaciones_sustanciales": {"start":29, "end": 38, "column": "B"},
+        "modificaciones_accidentales": {"start":60, "end": 69, "column": "B"},
+        "actividades_previstas": {"start":91, "end": 100, "column": "B"},
+        "nuevas_actividades_npi": {"start":122, "end": 131, "column": "B"}
+      }
+    },
+    "RESUMEN_FINANCIERO":{
+      "subvencion_aecid": "C7",
+      "rendimientos_financieros": "C8",
+      "ongd_espanola": "C9",
+      "aportaciones_publicas": "C10",
+      "aportaciones_privadas": "C11",
+      "ongd_local": "C13",
+      "aportaciones_publicas_local": "C14",
+      "aportaciones_privadas_local": "C15",
+      "informe_1": {
+        "subvencion_aecid": "D7",
+        "rendimientos_financieros": "D8",
+        "ongd_espanola": "D9",
+        "aportaciones_publicas": "D10",
+        "aportaciones_privadas": "D11",
+        "ongd_local": "D13",
+        "aportaciones_publicas_local": "D14",
+        "aportaciones_privadas_local": "D15"
+      },
+      "informe_2": {
+        "subvencion_aecid": "E7",
+        "rendimientos_financieros": "E8",
+        "ongd_espanola": "E9",
+        "aportaciones_publicas": "E10",
+        "aportaciones_privadas": "E11",
+        "ongd_local": "E13",
+        "aportaciones_publicas_local": "E14",
+        "aportaciones_privadas_local": "E15"
+      },
+      "final": {
+        "subvencion_aecid": "F7",
+        "rendimientos_financieros": "F8",
+        "ongd_espanola": "F9",
+        "aportaciones_publicas": "F10",
+        "aportaciones_privadas": "F11",
+        "ongd_local": "F13",
+        "aportaciones_publicas_local": "F14",
+        "aportaciones_privadas_local": "F15"
+      }
+    },
+    "VALORACION_CRITERIOS": {
+      "pertinencia": "B10",
+      "coherencia": "B12",
+      "eficacia_impacto": "B14",
+      "eficiencia": "B16",
+      "viabilidad_sostenibilidad": "B18",
+      "amortizacion": "B20",
+      "cobertura": "B22",
+      "otros_criterios": "B24"
+    },
+    "ENTREGA_FINAL": {
+      "finalizacion_transferencia": "B10",
+      "receptividad_sociolocal": "B13",
+      "visibilidad_complementariedad": "B16"
+    }
+  },
+  "CATALOGOS": {
+    "socio_local": "B14",
+    "categoria_profesional": { "row_start": "11", "row_end": "30", "column_start": "C"},
+    "tipo_contrato": { "row_start": "11", "row_end": "30", "column_start": "E"},
+    "paises": "B12"
+  }
+}

@@ -1,0 +1,15 @@
+Cuando el json del cuerpo del mensaje esta mal formateado sale este error
+SyntaxError: Unexpected end of JSON input
+    at Object.parse (native)
+    at parse (c:\Proyectos\ReportaONGD\justificacion-aecid-backend\node_modules\body-parser\lib\types\json.js:88:17)
+    at c:\Proyectos\ReportaONGD\justificacion-aecid-backend\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (c:\Proyectos\ReportaONGD\justificacion-aecid-backend\node_modules\raw-body\index.js:262:16)
+    at done (c:\Proyectos\ReportaONGD\justificacion-aecid-backend\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (c:\Proyectos\ReportaONGD\justificacion-aecid-backend\node_modules\raw-body\index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+  Las campo unique de mongo devuelven un error descontrolado.

@@ -1,0 +1,203 @@
+{
+    "partidas": [{
+        "codigo": "A.I.1",
+        "nombre": "Evaluación externa",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.2",
+        "nombre": "Auditorias",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.3",
+        "nombre": "Otros servicios técnicos (capacitaciones, seminarios, diagnósticos, informes, y otros servicios externos no relacionados con gastos de inversión)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.4",
+        "nombre": "Arrendamientos (de terrenos, inmuebles y equipos, no relacionados con sedes administrativas y viviendas del personal)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.5",
+        "nombre": "Materiales y suministros no inventariables (no relacionados con sedes administrativas ni viviendas del personal)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.6",
+        "nombre": "Tipo de Personal",
+        "costes": {},
+        "partida_padre": false,
+        "es_padre": true,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.6.1",
+        "nombre": "Personal Local",
+        "costes": {},
+        "partida_padre": {},
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.6.2",
+        "nombre": "Personal Expatriado",
+        "costes": {},
+        "partida_padre": {},
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.6.3",
+        "nombre": "Personal en Sede  (Excepto en proyectos de Educación para el desarrollo, máximo del 4,5 % de la subvención AECID)",
+        "costes": {},
+        "partida_padre": {},
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.6.4",
+        "nombre": "Personal voluntario",
+        "costes": {},
+        "partida_padre": {},
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.7",
+        "nombre": "Viajes,alojamientos y dietas",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.8",
+        "nombre": "Fondos rotatorios",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.I.9",
+        "nombre": "Gastos financieros (gastos bancarios por transferencias y en la cuenta del proyecto)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.II.1",
+        "nombre": "Adquisición de terrenos y/o inmuebles (excepto sedes administrativas y viviendas del personal)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.II.2",
+        "nombre": "Construcción y/o Reforma",
+        "costes": {},
+        "partida_padre": false,
+        "es_padre": true,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.II.2.1",
+        "nombre": "Construcción y/o reforma de inmuebles y otras infraestructuras (excepto sedes administrativas y viviendas del personal)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.II.2.2",
+        "nombre": "Trabajos y estudios técnicos inherentes a la inversión (Proyectos de construcción o reforma en arquitectura e ingenieria, licencias y tasas de obra, visados de proyectos, etc.)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.II.2.3",
+        "nombre": "Equipos y materiales inventariables (excepto para sedes administrativas y viviendas del personal)",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.III.1",
+        "nombre": "ONGD española",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    },
+    {
+        "codigo": "A.III.2",
+        "nombre": "ONGD local",
+        "costes": {},
+        "partida_padre": true,
+        "es_padre": false,
+        "es_inversion": false,
+        "etapa": null,
+        "convocatoria": {}
+    }
+]
+}
