@@ -17,10 +17,10 @@ module.exports = {
   // }
   // Gestionaongd
   gong: {
-    clientId: '45d5133dc7afaaa0207d094aa9e450277a5d1e4996dc47eaf8c91736e7b8365e',
-    clientSecret: 'e9772af05fe6a370931413810672e608999843e576afc9f9e434d0d024aa2328',
-    accessTokenUri: 'http://gestionaong.gong.gestionaongd.es/oauth/token',
-    authorizationUri: 'http://gestionaong.gong.gestionaongd.es/oauth/authorize',
-    apiUrl: 'http://gestionaong.gong.gestionaongd.es/webservice'
+    clientId: process.env.CLIENT_ID,
+    clientSecret: process.env.CLIENT_SECRET,
+    accessTokenUri: process.env.ACCESS_TOKEN_URI,
+    authorizationUri: process.env.AUTHORIZATION_URI,
+    apiUrl: process.env.API_URL
   }
 };
