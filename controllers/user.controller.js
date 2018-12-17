@@ -112,16 +112,16 @@ exports.login = function (req, res, next) {
       },
       function (token, user, done) {
         var smtpConfig = {
-          service: EmailConfig.EmailConfig.SERVICE,
+          service: process.env.MAIL_SERVICE,
           auth: {
-            user: EmailConfig.EmailConfig.USER,
-            pass: EmailConfig.EmailConfig.PASSWORD
+            user: process.env.MAIL_USER,
+            pass: process.env.MAIL_PASSWORD
           }
         };
         var smtpTransport = nodemailer.createTransport(smtpConfig);
         var mailOptions = {
           to: user.email,
-          from: EmailConfig.EmailConfig.USER,
+          from: process.env.MAIL_USER,
           subject: 'Nueva contraseña',
           text: 'Está recibiendo esto porque usted (o alguien más) ha solicitado el restablecimiento de la contraseña de su cuenta.\n\n' +
             'Esta es su nueva contraseña. La puede cambiar en el apartado cambiar contraseña:\n\n' +

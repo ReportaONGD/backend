@@ -1,0 +1,15 @@
+DB_CONECTION=mongodb://172.27.54.155:27017/development4
+MAIL_SERVICE=Gmail
+MAIL_USER=ezentis.movil@gmail.com
+MAIL_PASSWORD=ezentis1010
+DATOS_GENERALES=datos_generales
+MATRIZ_SEGUIMIENTO=matriz_seguimiento
+CRONOGRAMA_SEGUIMIENTO=cronograma_seguimiento
+DOCUMENTOS_FUENTES_VERIFICACION=documentos_fuentes_verificacion
+RESUMEN_FINANCIERO=resumen_financiero
+BALANCE_PRESUPUESTARIO=balance_presupuestario
+TESORERIA=tesoreria
+PERSONAL=personal
+TRANSFERENCIAS=transferencias
+BIENES_ADQUIRIDOS=bienes_adquiridos
+COMPROBANTES=comprobantes

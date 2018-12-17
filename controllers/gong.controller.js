@@ -162,7 +162,7 @@ exports.importar = function (req, res, next) {
         console.log(user); //=> { accessToken: '...', tokenType: 'bearer', ... }
         return popsicle.request(user.sign({
           method: 'get',
-          url: config.gong.apiUrl + '/proyectos/' + proyecto_id + '/' + GongConfig.GongConfig.MATRIZ_SEGUIMIENTO
+          url: config.gong.apiUrl + '/proyectos/' + proyecto_id + '/' + process.env.MATRIZ_SEGUIMIENTO
         })).then(function (api_res) {
           matrizGong = JSON.parse(api_res.body).matriz_seguimiento;
           githubAuth.credentials.getToken()
@@ -170,7 +170,7 @@ exports.importar = function (req, res, next) {
               console.log(user); //=> { accessToken: '...', tokenType: 'bearer', ... }
               return popsicle.request(user.sign({
                 method: 'get',
-                url: config.gong.apiUrl + '/proyectos/' + proyecto_id + '/' + GongConfig.GongConfig.PERSONAL
+                url: config.gong.apiUrl + '/proyectos/' + proyecto_id + '/' + process.env.PERSONAL
               })).then(function (api_res) {
                 personal = JSON.parse(api_res.body).personal.personas;
                 githubAuth.credentials.getToken()
@@ -178,7 +178,7 @@ exports.importar = function (req, res, next) {
                     console.log(user); //=> { accessToken: '...', tokenType: 'bearer', ... }
                     return popsicle.request(user.sign({
                       method: 'get',
-                      url: config.gong.apiUrl + '/proyectos/' + proyecto_id + '/' + GongConfig.GongConfig.TESORERIA
+                      url: config.gong.apiUrl + '/proyectos/' + proyecto_id + '/' + process.env.TESORERIA
                     })).then(function (api_res) {
                       cuentas_bancarias = JSON.parse(api_res.body).tesoreria.cuentas;
 
